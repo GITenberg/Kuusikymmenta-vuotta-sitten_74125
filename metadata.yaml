@@ -1,0 +1,46 @@
+_repo: Kuusikymmenta-vuotta-sitten_74125
+_version: 0.0.1
+alternative_title: Van oude mensen, de dingen, die voorbijgaan. Finnish
+contributor:
+  translator:
+    agent_name: Krohn, Helmi
+    aliases:
+    - Setälä, Helmi
+    - Setala, Helmi
+    - Helmi Setälä
+    birthdate: 1871
+    deathdate: 1967
+    gutenberg_agent_id: '31724'
+    url: http://www.gutenberg.org/2009/agents/31724
+    wikipedia: https://fi.wikipedia.org/wiki/Helmi_Krohn
+creator:
+  author:
+    agent_name: Couperus, Louis
+    alias: Couperus, Louis Marie Anne
+    birthdate: 1863
+    deathdate: 1923
+    gutenberg_agent_id: '4169'
+    url: http://www.gutenberg.org/2009/agents/4169
+    wikipedia:
+    - https://nl.wikipedia.org/wiki/Louis_Couperus
+    - https://en.wikipedia.org/wiki/Louis_Couperus
+description: ''
+gutenberg_issued: '2024-07-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74125'
+language: fi
+pgterms:marc905: 20240625005541couperus
+pgterms:marc906: '1924'
+pgterms:marc907: FI
+production_note: Tuula Temonen and Tapio Riikonen
+publication_note: '  $aHelsinki :$bOtava, $c1924.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Dutch fiction -- Translations into Finnish'
+- !lcc 'PT'
+- GITenberg
+title: Kuusikymmentä vuotta sitten
+url: http://www.gutenberg.org/ebooks/74125
